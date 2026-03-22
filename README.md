@@ -12,6 +12,3 @@ I'm **unt1tledd**, a 2nd-year student at ITMO University studying **Computer Tec
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-
-📊 **GitHub Stats:**  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=unt1tledd&show_icons=true&theme=radical)
