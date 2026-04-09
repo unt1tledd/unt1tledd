@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **unt1tledd**, a 2nd-year student at ITMO University studying **Computer Technologies**.  
+I'm **unt1tledd**, a student at ITMO University studying **Computer Technologies**.  
 
 💻 **Skills & Tech:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
