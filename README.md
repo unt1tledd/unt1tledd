@@ -12,4 +12,4 @@ I'm **unt1tledd**, a student at ITMO University studying **Computer Technologies
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![LeetCode Stats](https://leetcard.jacoblin.cool/unt1tledd?theme=dark&font=JetBrains%20Mono)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/unt1tledd/)
